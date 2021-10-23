@@ -1,12 +1,13 @@
 ---
 title: Wangyang He
 role: MS Student
-avatar_filename: resume-avi.jpg
+avatar_filename: assets/media/resume-avi.jpg
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Data Mining
+  - Outlier Detection
+  - Automated Machine Learning
 social:
   - icon: envelope
     icon_pack: fas
