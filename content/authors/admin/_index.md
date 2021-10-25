@@ -1,7 +1,7 @@
 ---
 title: Wangyang He
 role: MS Student
-avatar_filename: small.jpg
+avatar_filename: content/authors/admin/small.jpg
 bio: ""
 interests:
   - Machine Learning
@@ -37,4 +37,4 @@ highlight_name: true
 ---
 Howdy! My name is Wangyang He(何汪洋), I am currently a 1st year master student in Department of Computer Science and Engineering at Texas A&M University. My advisor is [Prof. Xia Hu](https://cs.rice.edu/~xh37/index.html), who leads the [DATA Lab](http://people.tamu.edu/~guangzhou92/Data_Lab/). I received my bachelor’s degree from the Department of Electrical and Computer Engineering at Texas A&M University in 2020.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "content/authors/admin/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
