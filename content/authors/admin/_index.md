@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'hewangyang@yahoo.com'
+    link: 'mailto:hewangyang@yahoo.com'
   - icon: github
     icon_pack: fab
     link: https://github.com/hwy893747147
