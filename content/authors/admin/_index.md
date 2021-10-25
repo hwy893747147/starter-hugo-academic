@@ -1,7 +1,7 @@
 ---
 title: Wangyang He
 role: MS Student
-avatar_filename: avi.jpg
+avatar_filename: small.jpg
 bio: ""
 interests:
   - Machine Learning
