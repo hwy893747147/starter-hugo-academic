@@ -32,14 +32,14 @@ item:
   title: Convolutional Neural Networks
   url: ""
 
-# - certificate_url: https://www.coursera.org/account/accomplishments/certificate/PCM9SJEJ3TZ3
-#   date_end: ""
-#   date_start: "2021-07-01"
-#   description: ""
-#   organization: Coursera
-#   organization_url: https://www.coursera.org
-#   title: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
-#   url: ""
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/PCM9SJEJ3TZ3
+  date_end: ""
+  date_start: "2021-07-01"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: 'Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization'
+  url: ""
 - certificate_url: https://www.coursera.org/account/accomplishments/certificate/UW97TNYWAMQV
   date_end: ""
   date_start: "2021-06-01"
