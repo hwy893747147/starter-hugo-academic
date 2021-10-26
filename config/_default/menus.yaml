@@ -20,7 +20,7 @@ main:
   #   url: '#talks'
   #   weight: 40
   - name: Resume
-    url: static/uploads/resume.pdf
+    url: uploads/resume.pdf
     weight: 50
   - name: Contact
     url: '#contact'
