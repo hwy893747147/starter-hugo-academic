@@ -23,20 +23,20 @@ twitter: ''
 email: hewangyang@yahoo.com
 # phone: 888 888 88 88
 address:
-  street: 450 Serra Mall
+  street: 435 Nagle St
   city: College Station
   region: TX
   postcode: '77840'
   country: United States
   country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+coordinates: #30.61613854657041, -96.33847571382321
+  latitude: '30.61613854657041'
+  longitude: '-96.33847571382321'
+directions: Enter Peterson Building and take the stairs/elevator to Room 430 on Floor 4
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
 #   - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+# appointment_url: 'https://calendly.com'
 # contact_links:
 #   - icon: twitter
 #     icon_pack: fab
