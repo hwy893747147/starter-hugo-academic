@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: DATA Lab at Texas A&M University
     company_url: ''
-    company_logo: resume-avi.jpg
+    company_logo: org-gc
     location: California
     date_start: '2021-01-01'
     date_end: ''
