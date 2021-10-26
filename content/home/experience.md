@@ -41,15 +41,15 @@ experience:
   - title: Software Development Intern
     company: XiaoShui Intelligence
     company_url: 'http://www.aipaas.com/'
-    company_logo: data
+    company_logo: xs
     location: Beijing, China
     date_start: '2019-05-01'
     date_end: '2019-08-30'
     description: |2-
         Responsibilities include:
 
-          * Action Detection System for elderly care facilities
-          * Safety Gear Detection System for construction companies
+        * Action Detection System for elderly care facilities
+        * Safety Gear Detection System for construction companies
 
 design:
   columns: '2'
