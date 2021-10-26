@@ -27,14 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Outlier Detection
-    tag: Outlier Detection
-  - name: Action Detection
-    tag: Action Detection
-  - name: Emotion Detection
-    tag: Emotion Detection
-  - name: Application
-    tag: Application
+  - name: Machine Learning
+    tag: Machine Learning
   - name: Other
     tag: Demo
 
