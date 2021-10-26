@@ -41,7 +41,7 @@ experience:
   - title: Software Development Intern
     company: XiaoShui Intelligence
     company_url: 'http://www.aipaas.com/'
-    company_logo: xs
+    company_logo: data
     location: Beijing, China
     date_start: '2019-05-01'
     date_end: '2019-08-30'
