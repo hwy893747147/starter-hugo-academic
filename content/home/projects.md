@@ -32,7 +32,7 @@ experience:
   - title: TODS
     company: Automated Time-series Outlier Detection System
     company_url: 'https://github.com/datamllab/tods'
-    company_logo: tods
+    company_logo: 
     location: 
     date_start: '2020-12-01'
     date_end: ''
