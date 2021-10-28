@@ -88,6 +88,6 @@ experience:
         Constructing machine learning pipelines for outlier detection in time series with automated machine learning.
 
 design:
-  view: 3
-  columns: '2'
+  # view: 3
+  columns: '3'
 ---
