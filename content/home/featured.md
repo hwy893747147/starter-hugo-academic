@@ -86,8 +86,8 @@ experience:
     date_end: ''
     description: |2-
         Constructing machine learning pipelines for outlier detection in time series with automated machine learning.
-        
+
 design:
-  view: '3'
+  view: 3
   columns: '2'
 ---
