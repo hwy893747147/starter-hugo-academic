@@ -77,7 +77,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: TODS: Detecting Different Types of Outliers from Time Series Data
+  - title: 'TODS: Detecting Different Types of Outliers from Time Series Data'
     company: Towards Data Science
     company_url: 'https://towardsdatascience.com/tods-detecting-outliers-from-time-series-data-2d4bd2e91381'
     company_logo: 
@@ -89,5 +89,5 @@ experience:
 
 design:
   # view: 3
-  columns: '3'
+  columns: '2'
 ---
