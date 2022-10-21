@@ -55,6 +55,30 @@ experience:
         * Detected actions including coughing, hand washing, falling, cleaning windows, cleaning bathroom and washing feet.
         * Implemented with Keras, used Kinetics 700 dataset, built VGG16 and Xception CNNs for base model.
         * Found in total of 23000+ clips from 800+ YouTube videos, average accuracy 91.2%, ranked top three overall in the project competition.
+
+  - title: COVID-19 Analysis
+    company: BTHO COVID-19
+    company_url: 'https://sites.google.com/tamu.edu/bthocovid-19'
+    company_logo: 
+    location: 
+    date_start: '2021-05-01'
+    date_end: '2021-12-25'
+    description: |2-
+        * Data analysis and visualization on COVID-19 dataset from CSSE at John Hopkins University.
+        * Implemented with Scikit-Learn, Plotly, TODS and Tensorflow.
+        * Utilized algorithms including K-Means, DeepLog(Outlier Detection).
+
+  - title: Masked Trigger Exploration in Neural Cleanse
+    company: Backdoor Attacks
+    company_url: 'https://bit.ly/backdoor-attacks'
+    company_logo: 
+    location: 
+    date_start: '2021-05-01'
+    date_end: '2021-12-25'
+    description: |2-
+        * Re-implemented the Neural Cleanse baseline system with Tensorflow.
+        * Explored several types of masked trigger including local and global features.
+        * Found global masked triggers to successfully inject models while not getting detected.
         
   - title: MusicFace
     company: Automated Emotion Playlist Generator
