@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Experience
+title: Experiences
 subtitle:
 
 # Date format for experience
@@ -77,13 +77,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Scientist Intern
+    company: Adobe
+    company_url: 
+    company_logo: 
+    location: San Jose, USA
+    date_start: '2022-05-01'
+    date_end: '2022-12-30'
+    description: |2-
+        Responsibilities include:
+        
+        * Internal Document Understanding Multi-Modal Framework with HuggingFace Ecosystem
+        * API Documentation
+        * Guides for Data Loading, Pretraining, Finetuning, etc.
+        * Explored AutoML's Potential in Text/Vision Transformer Models
+        * Content-based Recommendation Feature for Existing Document Recommendation System in Adobe Acrobat
+
   - title: Research Assistant
     company: DATA Lab at Texas A&M University
     company_url: 'http://people.tamu.edu/~guangzhou92/Data_Lab/'
     company_logo: data
     location: College Station, USA
     date_start: '2020-12-01'
-    date_end: ''
+    date_end: '2022-12-30'
     description: |2-
         Responsibilities include:
         
