@@ -5,8 +5,10 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Machine Learning
+  - Deep Learning
   - Data Mining
-  - Outlier Detection
+  - Time Series Outlier Detection
+  - Natural Language Processing
   - Automated Machine Learning
 social:
   - icon: envelope
@@ -35,6 +37,6 @@ email: hewangyang@yahoo.com
 superuser: true
 highlight_name: true
 ---
-Howdy! My name is Wangyang He(何汪洋), I am currently a 1st year master student in Department of Computer Science and Engineering at Texas A&M University. My advisor is [Prof. Xia Hu](https://cs.rice.edu/~xh37/index.html), who leads the [DATA Lab](http://people.tamu.edu/~guangzhou92/Data_Lab/). I received my bachelor’s degree from the Department of Electrical and Computer Engineering at Texas A&M University in 2020.
+Howdy! My name is **Wangyang He(何汪洋)**, I am a master student in Department of Computer Science and Engineering at **Texas A&M University**. My advisor is **[Prof. Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html)**. My master thesis topic is *Automated Deep Learning for Time Series Outlier Detection*. I also received my bachelor’s degree from the Department of Electrical and Computer Engineering at Texas A&M University in 2020.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
