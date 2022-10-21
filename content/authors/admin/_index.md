@@ -37,6 +37,6 @@ email: hewangyang@yahoo.com
 superuser: true
 highlight_name: true
 ---
-Howdy! My name is **Wangyang He(何汪洋)**, I am a master student in Department of Computer Science and Engineering at **Texas A&M University**. My advisor is **[Prof. Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html)**. My master thesis topic is *Automated Deep Learning for Time Series Outlier Detection*. I also received my bachelor’s degree from the Department of Electrical and Computer Engineering at Texas A&M University in 2020.
+Howdy! My name is **Wangyang He(何汪洋)**, I am a master student in Department of Computer Science and Engineering at **Texas A&M University**. My advisor is **[Prof. Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html)**. My master thesis topic is *Automated Deep Learning for Time Series Outlier Detection*. I worked as a **Research Scientist Intern** at Adobe in 2022, mentored by **[Tong Sun](https://research.adobe.com/person/tong-sun/)** and **[Jiuxiang Gu](https://research.adobe.com/person/jiuxiang-gu/)**. I also received my bachelor’s degree from the Department of Electrical and Computer Engineering at Texas A&M University in 2020.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

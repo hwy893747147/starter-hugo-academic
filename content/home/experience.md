@@ -79,8 +79,8 @@ date_format: Jan 2006
 experience:
   - title: Research Scientist Intern
     company: Adobe
-    company_url: 
-    company_logo: 
+    company_url: https://research.adobe.com/
+    company_logo: adobe
     location: San Jose, USA
     date_start: '2022-05-01'
     date_end: '2022-12-30'
